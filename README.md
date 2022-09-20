@@ -4,7 +4,7 @@ description: Welcome to Abel finance
 
 # Abel finance
 
-The first program to diversify lending DEX running on the APTOS network
+The first program to diversify lending Defi running on the APTOS network
 
 * &#x20;ERC20 and "AMM LP" and NFT are supported for lending
 * Support cross-chain lending
