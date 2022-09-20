@@ -13,12 +13,12 @@ The first program to diversify lending DEX running on the APTOS network
 
 **Official website**: [https://www.abelfinance.xyz/#/markets](https://www.abelfinance.xyz/#/markets)
 
-| Social Media | Address                                                                                                                                                     |
-| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Twitter      | [https://twitter.com/abelfinance](https://medium.com/@abelfinancehttps://github.com/abelfinancehttps://discord.gg/AGYvPMBv4Vhttps:/twitter.com/abelfinance) |
-| Medium       | [https://medium.com/@abelfinance](https://medium.com/@abelfinancehttps://github.com/abelfinancehttps://discord.gg/AGYvPMBv4Vhttps:/twitter.com/abelfinance) |
-| Github       | [https://github.com/abelfinance](https://medium.com/@abelfinancehttps://github.com/abelfinancehttps://discord.gg/AGYvPMBv4Vhttps:/twitter.com/abelfinance)  |
-| Discord      | [https://discord.gg/AGYvPMBv4V](https://medium.com/@abelfinancehttps://github.com/abelfinancehttps://discord.gg/AGYvPMBv4Vhttps:/twitter.com/abelfinance)   |
+| Social Media | Address                         |
+| ------------ | ------------------------------- |
+| Twitter      | https://twitter.com/abelfinance |
+| Medium       | https://medium.com/@abelfinance |
+| Github       | https://github.com/abelfinance  |
+| Discord      | https://discord.gg/AGYvPMBv4V   |
 
 __[\
 \
