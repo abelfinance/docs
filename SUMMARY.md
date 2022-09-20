@@ -4,10 +4,10 @@
 * [Vision](vision.md)
 * [Roadmap](roadmap.md)
 * [Protocol Overview](protocol-overview/README.md)
-  * [🎓 core](protocol-overview/core/README.md)
-    * [Supply & Borrow APY](protocol-overview/core/supply-and-borrow-apy.md)
-    * [Interest Rate Model](protocol-overview/core/interest-rate-model.md)
-    * [Loan Interest Allocation](protocol-overview/core/loan-interest-allocation.md)
+  * [🎓 core](protocol-overview/core.md)
+  * [Supply & Borrow APY](protocol-overview/supply-and-borrow-apy.md)
+  * [Interest Rate Model](protocol-overview/interest-rate-model.md)
+  * [Loan Interest Allocation](protocol-overview/loan-interest-allocation.md)
   * [🏈 LP Coin](protocol-overview/lp-coin.md)
 
 ## Tokenomic
