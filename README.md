@@ -8,7 +8,7 @@ The first program to diversify lending Defi running on the APTOS network
 
 * &#x20;ERC20 and "AMM LP" and NFT are supported for lending
 * Support cross-chain lending
-* Support Multi chain lending
+* Through cross-chain lending, improve multi-chain assets is realized
 * Referenced an implementation of CompoundV2 and was implemented using the MOVE language
 
 **Official website**: [https://www.abelfinance.xyz](https://www.abelfinance.xyz/#/markets)
