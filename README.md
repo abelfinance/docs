@@ -11,7 +11,7 @@ The first program to diversify lending Defi running on the APTOS network
 * Support Multi chain lending
 * Referenced an implementation of CompoundV2 and was implemented using the MOVE language
 
-**Official website**: [https://www.abelfinance.xyz/#/markets](https://www.abelfinance.xyz/#/markets)
+**Official website**: [https://www.abelfinance.xyz](https://www.abelfinance.xyz/#/markets)
 
 | Social Media | Address                         |
 | ------------ | ------------------------------- |

@@ -5,7 +5,7 @@ description: >-
   not interfere with each other)
 ---
 
-# Interest Rate Model
+# Interest Rate Model (refer to compound)
 
 * When the capital utilization rate of the current market is less than kink points (kink point is 80% by default)
 * Use linear interest rate growth model, interest rate grows slowly
@@ -14,7 +14,7 @@ description: >-
 * The calculation formula for borrowing interest rate is as follows:
 
 ```
-util = Borrow / (Cash + Borrow)
+utils = Borrow / (Cash + Borrow)
     if util <= kink {
         borrow_rate = util * multiplier_per_block  + base_rate_per_block;
     } else {
