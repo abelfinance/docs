@@ -1,12 +1,12 @@
 ---
-description: total 100 million Abel token
+description: Total 100 million Abel Coin
 cover: ../.gitbook/assets/761663813436_.pic.jpg
 coverY: 0
 ---
 
 # Token Allocation
 
-
+### Abel Coin Allocation Details
 
 | Subject                  | Ratio | Amount      |
 | ------------------------ | ----- | ----------- |
