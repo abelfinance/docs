@@ -3,6 +3,8 @@ description: >-
   The loan interest rate calculation uses the kink point interest rate model
   (each type of Token is a market, and the interest rates between the markets do
   not interfere with each other)
+cover: ../../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
 ---
 
 # Interest Rate Model

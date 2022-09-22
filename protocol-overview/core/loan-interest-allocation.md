@@ -1,5 +1,7 @@
 ---
 description: The rules for the distribution of interest on LP mortgage are as follows
+cover: ../../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
 ---
 
 # Loan Interest Allocation

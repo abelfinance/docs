@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/761663813436_.pic.jpg
+coverY: 0
+---
+
 # Vision
 
 Support diversified secured assets, such as AMM LP Coin and NFT ,etc

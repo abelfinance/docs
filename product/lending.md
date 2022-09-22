@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
+---
+
 # Lending
 
 * Supply coin&#x20;

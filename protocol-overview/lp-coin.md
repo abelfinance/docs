@@ -3,6 +3,8 @@ description: >-
   When coin are deposited into a crypto liquidity pool, the platform
   automatically generates a new token that represents the share the depositor
   owns of that pool. This is called a liquidity provider
+cover: ../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
 ---
 
 # 🏈 LP Coin

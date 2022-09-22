@@ -1,5 +1,7 @@
 ---
 description: Let us build a awesome lending defi
+cover: .gitbook/assets/761663813436_.pic.jpg
+coverY: 0
 ---
 
 # Roadmap

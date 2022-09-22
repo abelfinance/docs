@@ -1,16 +1,25 @@
+---
+cover: ../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
+---
+
 # Mining
 
 
 
 | Cycle                   | Days | Ratio | Amount per day | 70% for lending | 10% for CP staking | 20% for CP-USDT LP staking |
 | ----------------------- | ---- | ----- | -------------- | --------------- | ------------------ | -------------------------- |
-| Mining of early bird    | 7    | 10%   | 1000000        | 700000          | 100000             | 200000                     |
-| Official mining phase 1 | 30   | 10%   | 233333         | 163333          | 23333              | 46667                      |
-| Official mining phase 2 | 90   | 10%   | 77778          | 54444           | 7778               | 15556                      |
-| Official mining phase 3 | 180  | 10%   | 38889          | 27222           | 3889               | 7778                       |
-| Official mining phase 4 | 360  | 10%   | 19444          | 13611           | 1944               | 3889                       |
-| Official mining phase 5 | 720  | 10%   | 9722           | 6806            | 972                | 1944                       |
-| Official mining phase 6 | 1420 | 10%   | 4861           | 3403            | 486                | 972                        |
+| Mining of early bird    | 7    | 5%    | 392857         | 275000          | 39286              | 78571                      |
+| Official mining phase 1 | 30   | 8%    | 146667         | 102667          | 14667              | 29333                      |
+| Official mining phase 2 | 90   | 15%   | 91667          | 64167           | 9167               | 18333                      |
+| Official mining phase 3 | 180  | 18%   | 55000          | 38500           | 5500               | 11000                      |
+| Official mining phase 4 | 360  | 18%   | 27500          | 19250           | 2750               | 5500                       |
+| Official mining phase 5 | 720  | 18%   | 13750          | 9625            | 1375               | 2750                       |
+| Official mining phase 6 | 1420 | 18%   | 6972           | 4880            | 697                | 1394                       |
+
+
+
+
 
 
 

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/761663813436_.pic.jpg
+coverY: 0
+---
+
 # DAO
 
 * Staking ABEL
@@ -5,4 +10,4 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
