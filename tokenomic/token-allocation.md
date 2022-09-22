@@ -12,12 +12,12 @@ coverY: 0
 | ------------------------ | ----- | ----------- |
 | Total                    | 100%  | 100,000,000 |
 | Strategic Financing      | 5%    | 5,000,000   |
-| Team                     | 12%   | 12,000,000  |
+| Team                     | 16%   | 16,000,000  |
 | Market                   | 5%    | 5,000,000   |
-| Beta activities airdrops | 3%    | 3,000,000   |
-| IDO                      | 5%    | 5,000,000   |
+| Beta activities airdrops | 1%    | 1,000,000   |
+| IDO                      | 3%    | 3,000,000   |
 | Mining                   | 55%   | 55,000,000  |
-| DAO Treasury             | 10%   | 10,000,000  |
+| DAO Treasury             | 15%   | 15,000,000  |
 
 
 
