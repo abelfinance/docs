@@ -6,12 +6,16 @@ coverY: 0
 
 # Abel finance
 
-The first program to diversify lending Defi running on the APTOS network
+The first fully decentralized multiple cross-chain lending Defi running on the APTOS network
 
-* &#x20;ERC20 and "AMM LP" and NFT are supported for lending
+* Coin and "AMM LP Coin" and NFT are supported for lending
 * Support cross-chain lending
-* Make multi-chain assets is awesome
+* Make multi-chain assets liquidity is awesome
+* Official Treasury insurance
+* Fully decentralized community autonomy
 * Referenced an implementation of CompoundV2 and was implemented using the MOVE language
+
+
 
 **Official website**: [https://www.abelfinance.xyz](https://www.abelfinance.xyz/#/markets)
 
