@@ -15,12 +15,12 @@ The first program to diversify lending Defi running on the APTOS network
 
 **Official website**: [https://www.abelfinance.xyz](https://www.abelfinance.xyz/#/markets)
 
-| Social Media | Address                         |
-| ------------ | ------------------------------- |
-| Twitter      | https://twitter.com/abelfinance |
-| Medium       | https://medium.com/@abelfinance |
-| Github       | https://github.com/abelfinance  |
-| Discord      | https://discord.gg/AGYvPMBv4V   |
+| Social Media | Address                                                            |
+| ------------ | ------------------------------------------------------------------ |
+| Twitter      | [https://twitter.com/abelfinance](https://twitter.com/abelfinance) |
+| Medium       | [https://medium.com/@abelfinance](https://medium.com/@abelfinance) |
+| Github       | [https://github.com/abelfinance](https://github.com/abelfinance)   |
+| Discord      | [https://discord.gg/AGYvPMBv4V](https://discord.gg/AGYvPMBv4V)     |
 
 __[\
 \
