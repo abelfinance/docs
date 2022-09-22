@@ -1,5 +1,7 @@
 ---
 description: Welcome to Abel finance
+cover: .gitbook/assets/761663813436_.pic (1).jpg
+coverY: 0
 ---
 
 # Abel finance

@@ -1,5 +1,5 @@
 ---
-description: Let us build a awesome lend DEX
+description: Let us build a awesome lending defi
 ---
 
 # Roadmap
@@ -8,9 +8,9 @@ We hope that Abel finance will be a fully autonomous community project, so it's 
 
 ## Stage 1
 
-* [ ] Complete the overall plan of product&#x20;
-* [ ] Development of related protocols
-* [ ] Official website launched
+* [x] Complete the overall plan of product&#x20;
+* [x] Development of related protocols
+* [x] Official website launched
 * [ ] Internal testing of protocol
 
 
@@ -20,7 +20,7 @@ We hope that Abel finance will be a fully autonomous community project, so it's 
 * [ ] The launch of beta version Abel  in APTOS devnet
 * [ ] Airdrop plan for beta activities
 * [ ] Lending and Borrowing
-* [ ] LP token stake for borrow
+* [ ] Develop and test LP pool
 * [ ] Design the model of the DAO
 * [ ] Preparation for launching APTOS mainnet
 
@@ -29,17 +29,17 @@ We hope that Abel finance will be a fully autonomous community project, so it's 
 * [ ] Deployment of the APTOS mainnet (Abel  V1.0)&#x20;
 * [ ] The distribution of beta airdrops
 * [ ] The airdrop plan launched on the mainnet
-* [ ] Support LP token stake for borrow
+* [ ] Support LP lending
 
 
 
 ## Stage 4
 
-* [ ] Launch of APTOS V2.0  support NFT stake
-* [ ] Voting for support more tokens
+* [ ] Launch of APTOS V2.0  support NFT lending
+* [ ] Voting for support more coins
 * [ ] Improve user experience
 * [ ] More open community autonomy
-* [ ] Cross-chain Bridge
+* [ ] Cross-chain lending
 * [ ] More feature - Charts
 * [ ] Move all asset price oracles to Chainlink
 
