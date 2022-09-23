@@ -8,23 +8,22 @@ coverY: 0
 
 ### Abel Coin Allocation Details
 
-| Subject                  | Ratio | Amount      |
-| ------------------------ | ----- | ----------- |
-| Total                    | 100%  | 100,000,000 |
-| Strategic Financing      | 5%    | 5,000,000   |
-| Team                     | 16%   | 16,000,000  |
-| Market                   | 5%    | 5,000,000   |
-| Beta activities airdrops | 1%    | 1,000,000   |
-| IDO                      | 3%    | 3,000,000   |
-| Mining                   | 55%   | 55,000,000  |
-| DAO Treasury             | 15%   | 15,000,000  |
+| Subject      | Ratio | Amount      |
+| ------------ | ----- | ----------- |
+| Total        | 100%  | 100,000,000 |
+| Team/Advisor | 20%   | 20,000,000  |
+| Marketing    | 5%    | 5,000,000   |
+| IDO          | 5%    | 5,000,000   |
+| Mining       | 55%   | 55,000,000  |
+| DAO Treasury | 15%   | 15,000,000  |
 
+#### The unlocking rules for Team/Advisor
 
+* 10% will be unlocked on the day of mainnet launching
+* The rest will be unlocked in 24 months (3.75% each month)
 
->
->
-> The unlocking rules for Strategic Financing and Team :
->
-> * 7% will be unlocked on the day of mainnet launching
-> * 10% of the total amount not unlocked will be unlocked every week after the launch
-> * The unlocking will be finished in 3 years in total
+#### The unlocking rules for Marketing
+
+* 10% will be use for beta activities airdrops
+* The rest will be unlocked in 24 months (3.75% each month)
+
