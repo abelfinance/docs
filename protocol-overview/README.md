@@ -12,7 +12,11 @@ coverY: 0
 * 3\. Insurance pool (Fund from Abel finance treasury)
 * 4\. NFT  Pool
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/架构.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ### **The Main Roles Involved**
 

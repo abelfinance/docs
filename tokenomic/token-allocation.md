@@ -8,6 +8,10 @@ coverY: 0
 
 ### Abel Coin Allocation Details
 
+<figure><img src="../.gitbook/assets/token ecosystem.png" alt=""><figcaption></figcaption></figure>
+
+
+
 | Subject      | Ratio | Amount      |
 | ------------ | ----- | ----------- |
 | Total        | 100%  | 100,000,000 |
@@ -16,6 +20,8 @@ coverY: 0
 | IDO          | 5%    | 5,000,000   |
 | Mining       | 55%   | 55,000,000  |
 | DAO Treasury | 15%   | 15,000,000  |
+
+
 
 #### The unlocking rules for Team/Advisor
 
