@@ -10,7 +10,7 @@ The first fully decentralized multiple cross-chain lending Defi running on the A
 
 * Coin and "AMM LP Coin" and NFT are supported for lending
 * Support cross-chain lending
-* Make multi-chain assets liquidity is awesome
+* Make awesome multi chain assets liquidity
 * Official Treasury insurance
 * Fully decentralized community autonomy
 * Referenced an implementation of CompoundV2 and was implemented using the MOVE language
