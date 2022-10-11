@@ -8,18 +8,21 @@ coverY: 0
 
 ### Abel Coin Allocation Details
 
-<figure><img src="../.gitbook/assets/token ecosystem.png" alt=""><figcaption></figcaption></figure>
+
+
+| Use of Proceeds | %   | Token Breakdown | Unlock Schedule | %    |
+| --------------- | --- | --------------- | --------------- | ---- |
+| Token Sales     | 24% | Token Sales     | Round Based     | 0.24 |
+| Team/Advisor    | 10% | Team/Advisor    | 24 months       | 0.1  |
+| Marketing       | 6%  | Marketing       | 24 months       | 0.06 |
+| Mining          | 50% | Mining          | N/A             | 0.5  |
+| DAO Treasury    | 10% | DAO Treasury    | 24 months       | 0.1  |
 
 
 
-| Subject      | Ratio | Amount      |
-| ------------ | ----- | ----------- |
-| Total        | 100%  | 100,000,000 |
-| Team/Advisor | 20%   | 20,000,000  |
-| Marketing    | 5%    | 5,000,000   |
-| IDO          | 5%    | 5,000,000   |
-| Mining       | 55%   | 55,000,000  |
-| DAO Treasury | 15%   | 15,000,000  |
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
@@ -33,3 +36,8 @@ coverY: 0
 * 10% will be use for beta activities airdrops
 * The rest will be unlocked in 24 months (3.75% each month)
 
+
+
+### **Full Tokenomics Sheets**
+
+****[**https://docs.google.com/spreadsheets/d/1Ju5LkMFNGiF000fp5nrG\_Er\_fVMfWpfv7CBIrSalXjw/edit#gid=0**](https://docs.google.com/spreadsheets/d/1Ju5LkMFNGiF000fp5nrG\_Er\_fVMfWpfv7CBIrSalXjw/edit#gid=0)****

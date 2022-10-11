@@ -5,21 +5,15 @@ coverY: 0
 
 # Mining
 
-
-
-| Cycle                   | Days | Ratio | Amount per day | 70% for lending | 10% for Abel staking | 20% for Abel-USDT LP staking |
-| ----------------------- | ---- | ----- | -------------- | --------------- | -------------------- | ---------------------------- |
-| Mining of early bird    | 7    | 5%    | 392857         | 275000          | 39286                | 78571                        |
-| Official mining phase 1 | 30   | 8%    | 146667         | 102667          | 14667                | 29333                        |
-| Official mining phase 2 | 90   | 15%   | 91667          | 64167           | 9167                 | 18333                        |
-| Official mining phase 3 | 180  | 18%   | 55000          | 38500           | 5500                 | 11000                        |
-| Official mining phase 4 | 360  | 18%   | 27500          | 19250           | 2750                 | 5500                         |
-| Official mining phase 5 | 720  | 18%   | 13750          | 9625            | 1375                 | 2750                         |
-| Official mining phase 6 | 1420 | 18%   | 6972           | 4880            | 697                  | 1394                         |
-
-
-
-
+| Cycle                   | Days | Ratio | Amount per day | 70% for lending | 10% for CP staking | 20% for CP-USDT LP staking |
+| ----------------------- | ---- | ----- | -------------- | --------------- | ------------------ | -------------------------- |
+| Mining of early bird    | 7    | 5%    | 357143         | 250000          | 35714              | 71429                      |
+| Official mining phase 1 | 30   | 8%    | 133333         | 93333           | 13333              | 26667                      |
+| Official mining phase 2 | 90   | 15%   | 83333          | 58333           | 8333               | 16667                      |
+| Official mining phase 3 | 180  | 18%   | 50000          | 35000           | 5000               | 10000                      |
+| Official mining phase 4 | 360  | 18%   | 25000          | 17500           | 2500               | 5000                       |
+| Official mining phase 5 | 720  | 18%   | 12500          | 8750            | 1250               | 2500                       |
+| Official mining phase 6 | 1420 | 18%   | 6338           | 4437            | 634                | 1268                       |
 
 
 
